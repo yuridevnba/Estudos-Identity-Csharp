@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\models\\registerviewsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:models\\registerviewsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\contexto\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:contexto\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:entities\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\controllers\\alunoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:controllers\\alunoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|c:\\users\\y.henrique.da.silva\\source\\repos\\semidentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC014FA-2FC8-463B-AE92-B674EAB2AAD7}|SemIdentity.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Entities\\Aluno.cs",
+              "RelativeDocumentMoniker": "Entities\\Aluno.cs",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Entities\\Aluno.cs",
+              "RelativeToolTip": "Entities\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:35:43.58Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T23:55:54.85Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAcwFYAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:34:53.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterViewsModel.cs",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Models\\RegisterViewsModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewsModel.cs",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Models\\RegisterViewsModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:27:59.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Contexto\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Contexto\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Contexto\\AppDbContext.cs",
+              "RelativeToolTip": "Contexto\\AppDbContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T23:47:59.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T01:32:21.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:07:06.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunoesController.cs",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Controllers\\AlunoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunoesController.cs",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Controllers\\AlunoesController.cs",
+              "RelativeToolTip": "Controllers\\AlunoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T00:58:21.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\y.henrique.da.silva\\source\\repos\\SemIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T00:59:05.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
